@@ -1,6 +1,9 @@
 # kafka
 Learning kafka:
 
+Kafka quickstart: </br>
+            https://kafka.apache.org/quickstart</br>
+
 Kafka security: </br> https://www.youtube.com/watch?v=pfYvaEd39oA&t=1s </br>
                 https://www.youtube.com/watch?v=mUgLP725Rw0 </br>
 </br>
