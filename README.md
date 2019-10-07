@@ -11,4 +11,7 @@ Kafka security: </br> https://www.youtube.com/watch?v=pfYvaEd39oA&t=1s </br>
 Adding SSL in kafka: </br>https://www.youtube.com/watch?v=enY2vkca_bE&list=PLb0pWz-jnz98BeJZKVnydzZR_W6tlEuCb&index=1 </br>
 </br>
 Docker compose file to start multi-node zookeeper/kafka on localhost for development</br>
-https://github.com/confluentinc/cp-docker-images/blob/4.0.x/examples/kafka-cluster/docker-compose.yml
+https://github.com/confluentinc/cp-docker-images/blob/4.0.x/examples/kafka-cluster/docker-compose.yml </br>
+</br>
+The Kafka API Battle: Producer vs Consumer vs Kafka Connect vs Kafka Streams vs KSQL ! </br>
+https://medium.com/@stephane.maarek/the-kafka-api-battle-producer-vs-consumer-vs-kafka-connect-vs-kafka-streams-vs-ksql-ef584274c1e
