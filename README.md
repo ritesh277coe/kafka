@@ -29,4 +29,4 @@ Kafka-connect internals: https://www.javierholguera.com/2020/06/02/kafka-connect
 
 kafka-connect standalone vs distributed: https://supergloo.com/kafka-connect/running-kafka-connect-standalone-vs-distributed-mode-examples/#standalone-and-distributed-mode-overview </br>
 </br>
-
+https://www.conduktor.io/kafka/kafka-advanced-concepts/ </br>
